@@ -16,8 +16,8 @@ let package = Package(
     .binaryTarget(
       name: "AdSurgeIntegrationAssistant",
       url:
-        "https://github.com/ODCFrontend/adsurge-integration-assistant-ios/releases/download/2.0.0/AdSurgeIntegrationAssistant.zip",
-      checksum: "fc372b4a0a9690bda5d18eef59737183567f78497253e9fff12e6d4e62cb91ca"
+        "https://github.com/ODCFrontend/adsurge-integration-assistant-ios/releases/download/2.0.100/AdSurgeIntegrationAssistant.zip",
+      checksum: "7b40ca66b9e9c7a3fe7d73b9c934af3efbf01636e5b3d90879ebf7d22b22d8e9"
     )
   ]
 )
