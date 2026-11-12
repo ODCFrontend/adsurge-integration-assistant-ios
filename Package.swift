@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
   name: "AdSurgeIntegrationAssistant",
   platforms: [
-    .iOS(.v13)
+    .iOS(.v12)
   ],
   products: [
     .library(
@@ -16,8 +16,8 @@ let package = Package(
     .binaryTarget(
       name: "AdSurgeIntegrationAssistant",
       url:
-        "https://github.com/ODCFrontend/adsurge-integration-assistant-ios/releases/download/2.0.100/AdSurgeIntegrationAssistant.zip",
-      checksum: "7b40ca66b9e9c7a3fe7d73b9c934af3efbf01636e5b3d90879ebf7d22b22d8e9"
+        "https://github.com/ODCFrontend/adsurge-integration-assistant-ios/releases/download/2.0.200/AdSurgeIntegrationAssistant.zip",
+      checksum: "f8a1a5658566c58ab11275d22789ef0edd2dbe63a41073177582870521ab4535"
     )
   ]
 )
